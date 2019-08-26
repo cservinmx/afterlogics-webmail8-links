@@ -1,0 +1,10 @@
+{
+  "name": "cservinmx/linkswebclient",
+  "require": {
+		"php": ">=5.4.0"
+  },
+
+  "extra": {
+		"installer-name": "LinksWebclient"
+	}
+}
