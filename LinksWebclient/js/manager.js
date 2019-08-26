@@ -1,9 +1,3 @@
-/* Carlos Servín R.
-  21/08/2019 Legal tracking
-  Example Front End Module
-  https://afterlogic.com/docs/webmail-pro-8/developers-guide/creating-sample-frontend-module
-*/
-
 
 'use strict';
 module.exports = function (oAppData) {
