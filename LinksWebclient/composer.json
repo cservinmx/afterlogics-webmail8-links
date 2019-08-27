@@ -1,5 +1,5 @@
 {
-  "name": "cservinmx/linkswebclient",
+  "name": "cservinmx/links-webclient",
   "require": {
 		"php": ">=5.4.0"
   },
