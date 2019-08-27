@@ -1,10 +1,10 @@
 {
-  "name": "cservinmx/afterlogics-webmail8-links",
+  "name": "cservinmx/links-webclient",
   "require": {
 		"php": ">7.0"
   },
 
   "extra": {
-		"installer-name": "webmail8-links"
+		"installer-name": "linkswebclient"
 	}
 }
