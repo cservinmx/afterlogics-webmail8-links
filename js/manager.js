@@ -9,7 +9,7 @@ module.exports = function (oAppData) {
             {
                 return {
                     item: require('modules/%ModuleName%/js/views/HeaderItemView.js'),
-                    name: '%ModuleName%'
+                    name: HashModuleName
                 };
             }
         };
